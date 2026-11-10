@@ -1,0 +1,12 @@
+node_modules
+test-results
+playwright-report
+
+# fișiere de referință (doar local)
+/desktop.png
+/telefon.png
+/programare.png
+/index.png
+/plata.png
+/cerere.png
+/Citeste-ma.txt
